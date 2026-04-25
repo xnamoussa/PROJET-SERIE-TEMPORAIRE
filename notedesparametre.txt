@@ -1,0 +1,5 @@
+d → calculé avec ndiffs()
+D → calculé avec nsdiffs()
+p, q → trouvés automatiquement
+P, Q → trouvés automatiquement
+s = 24 (car frequency=24)
