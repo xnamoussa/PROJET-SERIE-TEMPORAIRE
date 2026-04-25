@@ -2,6 +2,12 @@
 
 Ce projet réalise une analyse complète, une modélisation prédictive et une visualisation interactive du trafic internet, SMS et appels de la ville de Milan.
 
+https://sl1nk.com/datawhispers
+
+
+<img width="1000" height="1000" alt="projet R" src="https://github.com/user-attachments/assets/9d2dd9bb-c7c4-4a10-856a-477d2309f211" />
+
+
 ---
 
 ## 🔷 1. Chargement des librairies
@@ -131,4 +137,5 @@ checkresiduals(fit)
 
 ---
 🎯 **Auteur** : Awini emna.
+
 
